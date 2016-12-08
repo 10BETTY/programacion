@@ -1,0 +1,3 @@
+c:\users\lab3redes_7\documents\visual studio 2010\Projects\Practica_herencia\Practica_herencia\obj\x86\Debug\Practica_herencia.Form1.resources
+c:\users\lab3redes_7\documents\visual studio 2010\Projects\Practica_herencia\Practica_herencia\obj\x86\Debug\Practica_herencia.Properties.Resources.resources
+c:\users\lab3redes_7\documents\visual studio 2010\Projects\Practica_herencia\Practica_herencia\obj\x86\Debug\Practica_herencia.csproj.GenerateResource.Cache
